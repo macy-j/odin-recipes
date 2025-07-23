@@ -1,0 +1,1 @@
+Basic website with recipes, no JS, just HTML and CSS (add in the near future). My first 'real' project, meant to put together what I already have learnt in The Odin Project and sharpen up my HTML skills.
